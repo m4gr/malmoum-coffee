@@ -1,2 +1,35 @@
-# malmoum-coffee
-A responsive web application/landing page for Malmoum Coffee, designed to showcase coffee offerings, location details, and brand identity.
+# ☕ Malmoum Coffee | مقهى الملموم
+
+موقع ويب تفاعلي ومتجاوب يعرض الهوية التجارية لـ **مقهى الملموم (Malmoum Coffee)**، المشروبات المقدمة، وتفاصيل التواصل والفرع.
+
+---
+
+## 🌟 المميزات (Features)
+
+* 📱 **تصميم متجاوب:** يعمل بكفاءة على مختلف الأجهزة والشاشات (الهواتف، الأجهزة اللوحية، والشاشات الكبيرة).
+* ⚡ **أداء سريع:** واجهة مستخدم سلسة وخفيفة لضمان أفضل تجربة تصفح.
+* 🎨 **هوية بصرية مميزة:** تنسيق ألوان وتصميم يعكس طابع المقهى.
+* 📍 **معلومات الاتصال والموقع:** الوصول السريع لتفاصيل الفرع ووسائل التواصل الاجتماعي.
+
+---
+
+## 🛠️ التقنيات المستخدمة (Tech Stack)
+
+* **HTML5** - بناء هيكل الصفحات
+* **CSS3** - التنسيق والتصميم المتجاوب
+* **JavaScript** - إضافة السلوكيات التفاعلية
+
+---
+
+## 🔗 المعاينة الحية (Live Demo)
+
+يمكنك زيارة الموقع مباشرة عبر الرابط التالي:  
+👉 **[webixsa.site/malmoum_coffee](https://webixsa.site/malmoum_coffee)**
+
+---
+
+## 🚀 كيفية التشغيل محلياً (Local Setup)
+
+1. قم بعمل استنساخ للمستودع (Clone):
+   ```bash
+   git clone [https://github.com/USERNAME/malmoum-coffee.git](https://github.com/USERNAME/malmoum-coffee.git)
